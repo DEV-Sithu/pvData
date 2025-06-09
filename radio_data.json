@@ -1,4 +1,4 @@
-{
+[
    {
       "id" : "rd_1",
       "name" : "Cherry FM",
@@ -13,4 +13,4 @@
       "streamUrl" : "https://stream-175.zeno.fm/rq4ux25pyeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJycTR1eDI1cHllcnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlZXbU5sOGdhUzdhZjRrS2F4MGxTYWciLCJpYXQiOjE3NDk0ODEwNjgsImV4cCI6MTc0OTQ4MTEyOH0.B4Wsk5WO6087dpSssWBKpYoTVG9ViL2Qr1vOxvuNu3Q&cto-uid=beaf5d4b-e01f-446e-a732-3df08c2069f7-676f1017-4d4d&amp;dot-uid=0b6522040067b61b5af8c892&amp;triton-uid=cookie%3A2692d297-67f3-445b-8268-8dcb5ec60940&amp;amb-uid=8415127618514687623&amp;dbm-uid=CAESEAR3z1_6cxXDrrfHcZ2bzIg&amp;dyn-uid=4204724016575803976&amp;ttd-uid=51441192-9fce-4113-a3a3-b48edb3b0d1f&amp;aw_0_req_lsid=566f6f2c863f93b2d5849a9d549037a3",
       "country" : "my"
     }
-}
+]
