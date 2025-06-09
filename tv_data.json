@@ -1,16 +1,106 @@
 [
-   {
-      "id" : "rd_1",
-      "name" : "Cherry FM",
-      "image_url" : "https://lh3.googleusercontent.com/-IOLRM6EWMdpM0s12beniYWgmz8kkHVrTIrvSjf-QryWzu05zJxjLW20MidOItJIVg",
-      "streamUrl" : "https://stream-175.zeno.fm/rq4ux25pyeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJycTR1eDI1cHllcnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlZXbU5sOGdhUzdhZjRrS2F4MGxTYWciLCJpYXQiOjE3NDk0ODEwNjgsImV4cCI6MTc0OTQ4MTEyOH0.B4Wsk5WO6087dpSssWBKpYoTVG9ViL2Qr1vOxvuNu3Q&cto-uid=beaf5d4b-e01f-446e-a732-3df08c2069f7-676f1017-4d4d&amp;dot-uid=0b6522040067b61b5af8c892&amp;triton-uid=cookie%3A2692d297-67f3-445b-8268-8dcb5ec60940&amp;amb-uid=8415127618514687623&amp;dbm-uid=CAESEAR3z1_6cxXDrrfHcZ2bzIg&amp;dyn-uid=4204724016575803976&amp;ttd-uid=51441192-9fce-4113-a3a3-b48edb3b0d1f&amp;aw_0_req_lsid=566f6f2c863f93b2d5849a9d549037a3",
-      "country" : "my"
-    },
-    {
-      "id" : "rd_1",
-      "name" : "Cherry FM",
-      "image_url" : "https://lh3.googleusercontent.com/-IOLRM6EWMdpM0s12beniYWgmz8kkHVrTIrvSjf-QryWzu05zJxjLW20MidOItJIVg",
-      "streamUrl" : "https://stream-175.zeno.fm/rq4ux25pyeruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJycTR1eDI1cHllcnV2IiwiaG9zdCI6InN0cmVhbS0xNzUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlZXbU5sOGdhUzdhZjRrS2F4MGxTYWciLCJpYXQiOjE3NDk0ODEwNjgsImV4cCI6MTc0OTQ4MTEyOH0.B4Wsk5WO6087dpSssWBKpYoTVG9ViL2Qr1vOxvuNu3Q&cto-uid=beaf5d4b-e01f-446e-a732-3df08c2069f7-676f1017-4d4d&amp;dot-uid=0b6522040067b61b5af8c892&amp;triton-uid=cookie%3A2692d297-67f3-445b-8268-8dcb5ec60940&amp;amb-uid=8415127618514687623&amp;dbm-uid=CAESEAR3z1_6cxXDrrfHcZ2bzIg&amp;dyn-uid=4204724016575803976&amp;ttd-uid=51441192-9fce-4113-a3a3-b48edb3b0d1f&amp;aw_0_req_lsid=566f6f2c863f93b2d5849a9d549037a3",
-      "country" : "my"
-    }
+  {
+    "id" : "tv_1",
+    "name" : "Mahar Esports TV Channel",
+    "imageUrl" : "https://maharesports.com/wp-content/uploads/2022/10/MahareSports-Web-logo.png",
+    "streamUrl" : "https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8",
+    "description": "https://maharesports.com/live/",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_2",
+    "name" : "Mahar TV Channel",
+    "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-120x120-2c2.jpg",
+    "streamUrl" : "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
+    "description": "www.mahar.app",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_3",
+    "name" : "5 Plus TV Channel",
+    "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-120x120-369.jpg",
+    "streamUrl" : "https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w966203973.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjUgMTE6MjE6MjIgUE0maGFzaF92YWx1ZT16VnJwZjZFVGwzTWdwSUlLdlo5SWtnPT0mdmFsaWRtaW51dGVzPTEwJmlkPTM3MTExNDQyMA%3D%3D",
+    "description": "https://www.5pluschannel.com/",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_4",
+    "name" : "Channel 7 TV Channel",
+    "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-120x120-81c.jpg",
+    "streamUrl" : "https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w710274018.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjUgMTE6MjQ6MzIgUE0maGFzaF92YWx1ZT1GMjRkRFBKU0g1RzdIUzhiK0pwN1R3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTM3MTExNDQyMA%3D%3D",
+    "description": "https://www.pyoneplay.com/",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_5",
+    "name" : "Mahar BawDi TV Channel",
+    "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/maharbawdi-120x120-188.jpg",
+    "streamUrl" : "https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
+    "description": "မဟာဗောဓိ",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_6",
+    "name" : "MRTV4 TV Channel",
+    "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg",
+    "streamUrl" : "https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
+    "description": "MRTV4 is a Myanmar television channel",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_7",
+    "name" : " TV Channel",
+    "imageUrl" : "",
+    "streamUrl" : "",
+    "description": "",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_2",
+    "name" : "",
+    "imageUrl" : "",
+    "streamUrl" : "",
+    "description": "",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_2",
+    "name" : "",
+    "imageUrl" : "",
+    "streamUrl" : "",
+    "description": "",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_2",
+    "name" : "",
+    "imageUrl" : "",
+    "streamUrl" : "",
+    "description": "",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_2",
+    "name" : "",
+    "imageUrl" : "",
+    "streamUrl" : "",
+    "description": "",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_2",
+    "name" : "",
+    "imageUrl" : "",
+    "streamUrl" : "",
+    "description": "",
+    "country" : "my"
+  },
+  {
+    "id" : "tv_2",
+    "name" : "",
+    "imageUrl" : "",
+    "streamUrl" : "",
+    "description": "",
+    "country" : "my"
+  }
 ]
