@@ -227,11 +227,35 @@
   },
   {
     "id" : "rd_29",
-    "name" : "Star FM",
-    "imageUrl" : "",
-    "streamUrl" : "",
-    "description": "",
-    "country" : "my"
+    "name" : "บุญนิยมทีวี BoonniyomTV FM",
+    "imageUrl" : "https://zeno.fm/_ipx/_/https://images.zeno.fm/xES21WU7ulumSrttQ7Xg2ZwwwO-pHAZlabXOogt1jWA/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1F1WU9BZ0FzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ1EyZkx5cVFnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY5MzYyMzg4NTAwMA.webp",
+    "streamUrl" : "https://stream.zeno.fm/m0fs2kgws4zuv?cto-uid=beaf5d4b-e01f-446e-a732-3df08c2069f7-676f1017-4d4d&amp;dot-uid=0b6522040067b61b5af8c892&amp;triton-uid=cookie%3A2692d297-67f3-445b-8268-8dcb5ec60940&amp;amb-uid=8415127618514687623&amp;dbm-uid=CAESEAR3z1_6cxXDrrfHcZ2bzIg&amp;dyn-uid=4204724016575803976&amp;ttd-uid=51441192-9fce-4113-a3a3-b48edb3b0d1f&amp;adtonosListenerId=01JXAJBR78R3MKVW8BEF00J96V&amp;aw_0_req_lsid=24be3c707bc72a3e22bdb37ee4910d39",
+    "description": "บุญนิยมทีวี BoonniyomTV ช่องวิทยุเอฟเอ็ม",
+    "country" : "th"
+  },
+  {
+    "id" : "rd_30",
+    "name" : "StarFM Thailand FM",
+    "imageUrl" : "https://zeno.fm/_ipx/_/https://images.zeno.fm/yyxedMLeTZwkJDXl5LYyNJDhKlse-G2zEiFKAPJ-Ft0/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYzFhODJiZmMtMTdiOC00M2ZmLThhYzQtZDgxOTQ5MmFiYzlmL2ltYWdlLz91PTE3MjcwMDY4MDUwMDA.webp",
+    "streamUrl" : "https://stream.zeno.fm/xpzvfelpm0mvv?cto-uid=beaf5d4b-e01f-446e-a732-3df08c2069f7-676f1017-4d4d&amp;dot-uid=0b6522040067b61b5af8c892&amp;triton-uid=cookie%3A2692d297-67f3-445b-8268-8dcb5ec60940&amp;amb-uid=8415127618514687623&amp;dbm-uid=CAESEAR3z1_6cxXDrrfHcZ2bzIg&amp;dyn-uid=4204724016575803976&amp;ttd-uid=51441192-9fce-4113-a3a3-b48edb3b0d1f&amp;adtonosListenerId=01JXAJBR78R3MKVW8BEF00J96V&amp;aw_0_req_lsid=24be3c707bc72a3e22bdb37ee4910d39",
+    "description": "StarFM Thailand ช่องวิทยุเอฟเอ็ม",
+    "country" : "th"
+  },
+  {
+    "id" : "rd_30",
+    "name" : "FAT93 Radio Thailand FM",
+    "imageUrl" : "https://zeno.fm/_ipx/_/https://images.zeno.fm/vm5166f4jhm-eSsSqHiPmas4VJu84Y3WCCMt3qIVe5Q/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ0FnUDdLdmdvTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJQ3drcGl2Z3dnTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTYyMDA1NTc5MTAwMA.webp",
+    "streamUrl" : "https://stream.zeno.fm/nu9abxgvbv8uv?cto-uid=beaf5d4b-e01f-446e-a732-3df08c2069f7-676f1017-4d4d&amp;dot-uid=0b6522040067b61b5af8c892&amp;triton-uid=cookie%3A2692d297-67f3-445b-8268-8dcb5ec60940&amp;amb-uid=8415127618514687623&amp;dbm-uid=CAESEAR3z1_6cxXDrrfHcZ2bzIg&amp;dyn-uid=4204724016575803976&amp;ttd-uid=51441192-9fce-4113-a3a3-b48edb3b0d1f&amp;adtonosListenerId=01JXAJBR78R3MKVW8BEF00J96V&amp;aw_0_req_lsid=24be3c707bc72a3e22bdb37ee4910d39",
+    "description": "FAT93 Radio ช่องวิทยุเอฟเอ็ม",
+    "country" : "th"
+  },
+  {
+    "id" : "rd_30",
+    "name" : "Radio Thailand Phatthalung FM",
+    "imageUrl" : "https://zeno.fm/_ipx/_/https://images.zeno.fm/9fhQfc5qampEkNUf8zmQ1jzBn7QV10V9-w3eUT93lyw/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRElob09ObmdrTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRElodUhfM3dzTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTcyMTI5MTYyMzAwMA.webp",
+    "streamUrl" : "https://stream.zeno.fm/4hfq8aawgxhvv?cto-uid=beaf5d4b-e01f-446e-a732-3df08c2069f7-676f1017-4d4d&amp;dot-uid=0b6522040067b61b5af8c892&amp;triton-uid=cookie%3A2692d297-67f3-445b-8268-8dcb5ec60940&amp;amb-uid=8415127618514687623&amp;dbm-uid=CAESEAR3z1_6cxXDrrfHcZ2bzIg&amp;dyn-uid=4204724016575803976&amp;ttd-uid=51441192-9fce-4113-a3a3-b48edb3b0d1f&amp;adtonosListenerId=01JXAJBR78R3MKVW8BEF00J96V&amp;aw_0_req_lsid=24be3c707bc72a3e22bdb37ee4910d39",
+    "description": "Phatthalung ช่องวิทยุเอฟเอ็ม",
+    "country" : "th"
   },
   {
     "id" : "rd_30",
@@ -239,6 +263,6 @@
     "imageUrl" : "",
     "streamUrl" : "",
     "description": "",
-    "country" : "my"
+    "country" : "th"
   }
 ]
