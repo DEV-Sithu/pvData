@@ -4,7 +4,7 @@
     "name" : "Mahar Esports TV Channel",
     "imageUrl" : "https://maharesports.com/wp-content/uploads/2022/10/MahareSports-Web-logo.png",
     "streamUrl" : "https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8",
-    "description": "https://maharesports.com/live/",
+    "description": "Mahar Esports တီဗီချန်နယ်",
     "country" : "my"
   },
   {
@@ -12,7 +12,7 @@
     "name" : "Mahar TV Channel",
     "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mahar-120x120-2c2.jpg",
     "streamUrl" : "https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8",
-    "description": "www.mahar.app",
+    "description": "မဟာ တီဗီချန်နယ်",
     "country" : "my"
   },
   {
@@ -20,7 +20,7 @@
     "name" : "5 Plus TV Channel",
     "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/5plus-120x120-369.jpg",
     "streamUrl" : "https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w966203973.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjUgMTE6MjE6MjIgUE0maGFzaF92YWx1ZT16VnJwZjZFVGwzTWdwSUlLdlo5SWtnPT0mdmFsaWRtaW51dGVzPTEwJmlkPTM3MTExNDQyMA%3D%3D",
-    "description": "https://www.5pluschannel.com/",
+    "description": "5 Plus တီဗီချန်နယ်",
     "country" : "my"
   },
   {
@@ -28,7 +28,7 @@
     "name" : "Channel 7 TV Channel",
     "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel7-120x120-81c.jpg",
     "streamUrl" : "https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w710274018.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni85LzIwMjUgMTE6MjQ6MzIgUE0maGFzaF92YWx1ZT1GMjRkRFBKU0g1RzdIUzhiK0pwN1R3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTM3MTExNDQyMA%3D%3D",
-    "description": "https://www.pyoneplay.com/",
+    "description": "Channel 7 တီဗီချန်နယ်",
     "country" : "my"
   },
   {
@@ -36,7 +36,7 @@
     "name" : "Mahar BawDi TV Channel",
     "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/maharbawdi-120x120-188.jpg",
     "streamUrl" : "https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
-    "description": "မဟာဗောဓိ",
+    "description": "မဟာဗောဓိ တီဗီချန်နယ်",
     "country" : "my"
   },
   {
@@ -44,23 +44,23 @@
     "name" : "MRTV4 TV Channel",
     "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mrtv42-80x80-83b.jpg",
     "streamUrl" : "https://pplive.comquas.com:5443/LiveApp/streams/rHEBIW7pjQLU1677679374164.m3u8",
-    "description": "MRTV4 is a Myanmar television channel",
+    "description": "MRTV4 တီဗီချန်နယ်",
     "country" : "my"
   },
   {
     "id" : "tv_7",
-    "name" : " TV Channel",
-    "imageUrl" : "",
-    "streamUrl" : "",
-    "description": "",
+    "name" : "Channel 9",
+    "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channel9-120x120-d4b.jpg",
+    "streamUrl" : "https://5a13fe32ef748.streamlock.net/mmplay/channel9/chunklist_w330677231.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDc6NTQ6MjkgUE0maGFzaF92YWx1ZT1YM1N1TEpVYnBaUHRrOEluajkvVDRBPT0mdmFsaWRtaW51dGVzPTEwJmlkPTM3MTExNDQxMzY%3D",
+    "description": "ချန်နယ် 9 တီဗီချန်နယ်",
     "country" : "my"
   },
   {
-    "id" : "tv_2",
-    "name" : "",
-    "imageUrl" : "",
-    "streamUrl" : "",
-    "description": "",
+    "id" : "tv_8",
+    "name" : "Education Channel",
+    "imageUrl" : "https://www.myanmartvchannels.com/assets/cache/images/channeliconb/education-120x120-88e.jpg",
+    "streamUrl" : "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w558472324.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMy8yMDI1IDg6MDU6MzggUE0maGFzaF92YWx1ZT0vN3lxaHJPWUZ4UWRkeGpSWFRFc3dBPT0mdmFsaWRtaW51dGVzPTEwJmlkPTM3MTExNDQxMzY%3D",
+    "description": "ပညာရေး တီဗီချန်နယ်",
     "country" : "my"
   },
   {
