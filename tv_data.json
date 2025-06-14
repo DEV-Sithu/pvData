@@ -64,43 +64,237 @@
     "country" : "my"
   },
   {
-    "id" : "tv_2",
-    "name" : "",
-    "imageUrl" : "",
-    "streamUrl" : "",
-    "description": "",
-    "country" : "my"
+    "id" : "tv_9",
+    "name" : "ALTV 4 TV Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/aa/altv-4-th.png",
+    "streamUrl" : "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_tha/index.m3u8",
+    "description": "ALTV 4 ช่องทีวี",
+    "country" : "th"
   },
   {
-    "id" : "tv_2",
-    "name" : "",
-    "imageUrl" : "",
-    "streamUrl" : "",
-    "description": "",
-    "country" : "my"
+    "id" : "tv_10",
+    "name" : "Amarin 34 HD TV Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/aa/amarin-34-hd-th.svg",
+    "streamUrl" : "https://vidstatb.taboola.com/vid/blackScreen5.mp4",
+    "description": "Amarin 34 HD ช่องทีวี",
+    "country" : "th"
   },
   {
-    "id" : "tv_2",
-    "name" : "",
-    "imageUrl" : "",
-    "streamUrl" : "",
-    "description": "",
-    "country" : "my"
+    "id" : "tv_11",
+    "name" : "Baanbaan TV 73 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/bb/baanbaan-tv-73-th.png",
+    "streamUrl" : "https://vdo.plathong.net/live8794/live8794/chunklist_w182119103.m3u8",
+    "description": "Baanbaan TV 73 ช่องทีวี",
+    "country" : "th"
   },
   {
-    "id" : "tv_2",
-    "name" : "",
-    "imageUrl" : "",
-    "streamUrl" : "",
-    "description": "",
-    "country" : "my"
+    "id" : "tv_12",
+    "name" : "Boomerang Thailand Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/bb/boomerang-us.svg",
+    "streamUrl" : "https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8",
+    "description": "Boomerang Thailand ช่องทีวี",
+    "country" : "th"
   },
   {
-    "id" : "tv_2",
-    "name" : "",
-    "imageUrl" : "",
-    "streamUrl" : "",
-    "description": "",
-    "country" : "my"
+    "id" : "tv_13",
+    "name" : "Boonniyom TV Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/bb/boonniyom_tv_th.png",
+    "streamUrl" : "https://live.x2.co.th/live/bntv_720p/index.m3u8",
+    "description": "Boonniyom TV ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_14",
+    "name" : "DLTV 1 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-1-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv01.m3u8",
+    "description": "DLTV 1 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_15",
+    "name" : "DLTV 10 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-10-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv10.m3u8",
+    "description": "DLTV 10 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_16",
+    "name" : "DLTV 11 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-11-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv11.m3u8",
+    "description": "DLTV 11 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_17",
+    "name" : "DLTV 12 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-12-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv12.m3u8",
+    "description": "DLTV 12 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_18",
+    "name" : "DLTV 13 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-13-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv13.m3u8",
+    "description": "DLTV 13 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_19",
+    "name" : "DLTV 14 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-14-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv14.m3u8",
+    "description": "DLTV 14 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_20",
+    "name" : "DLTV 15 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-15-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv15.m3u8",
+    "description": "DLTV 15 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_21",
+    "name" : "DLTV 2 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-2-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv02.m3u8",
+    "description": "DLTV 2 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_22",
+    "name" : "DLTV 3 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-3-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv03.m3u8",
+    "description": "DLTV 3 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_23",
+    "name" : "DLTV 4 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-4-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv04.m3u8",
+    "description": "DLTV 4 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_24",
+    "name" : "DLTV 5 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-5-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv05.m3u8",
+    "description": "DLTV 5 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_25",
+    "name" : "DLTV 6 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-6-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv06.m3u8",
+    "description": "DLTV 6 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_26",
+    "name" : "DLTV 7 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-7-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv07.m3u8",
+    "description": "DLTV 7 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_27",
+    "name" : "DLTV 8 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-8-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv08.m3u8",
+    "description": "DLTV 8 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_28",
+    "name" : "DLTV 9 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/dd/dltv-9-th.png",
+    "streamUrl" : "https://cdn-live.dltv.ac.th/dltv09.m3u8",
+    "description": "DLTV 9 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_29",
+    "name" : "GMM 25 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/gg/gmm-25-th.png",
+    "streamUrl" : "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/profile_3/acdce68259b249c2bfe65ab00497a3a1/chunklist_ssaiV.m3u8",
+    "description": "GMM 25 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_30",
+    "name" : "MCOT HD Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/mm/mcot-hd-th.png",
+    "streamUrl" : "https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8",
+    "description": "MCOT HD ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_31",
+    "name" : "MV Mall Healthy Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/mm/mv-mall-healthy-th.png",
+    "streamUrl" : "https://lb1-live-mv.v2h-cdn.com/hls/fdff/mvmallhelth/mvmallhelth.m3u8",
+    "description": "MV Mall Healthy ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_32",
+    "name" : "Nation TV Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/nn/nation-tv-th.png",
+    "streamUrl" : "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/360p/index.m3u8",
+    "description": "Nation TV ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_33",
+    "name" : "NBT 11 Central Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/nn/nbt-11-central-th.png",
+    "streamUrl" : "https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/chunklist_w38952365_b978000.m3u8",
+    "description": "NBT 11 Central ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_34",
+    "name" : "New TM Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/nn/new-tm-th.png",
+    "streamUrl" : "https://vdo.plathong.net/flash7253/flash7253/chunklist_w793122147.m3u8",
+    "description": "New TM ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_35",
+    "name" : "Thai PBS 3 Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/tt/thai_pbs.png",
+    "streamUrl" : "https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist_1080p/index.m3u8",
+    "description": "Thai PBS 3 ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_36",
+    "name" : "True 4U Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/tt/true-4u-th.png",
+    "streamUrl" : "https://true4u-p4ljv2.cdn.byteark.com/live/pl_240p/index.m3u8?x_ark_access_id=fleet-1890&x_ark_auth_type=ark-v2&x_ark_expires=1749951129&x_ark_path_prefix=%2Flive%2F&x_ark_signature=2LPHpWzoBtAlVukKNALC5w",
+    "description": "True 4U Channel ช่องทีวี",
+    "country" : "th"
+  },
+  {
+    "id" : "tv_37",
+    "name" : "Zabb Channel",
+    "imageUrl" : "https://www.lyngsat.com/logo/tv/zz/zabb_channel.png",
+    "streamUrl" : "https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8",
+    "description": "Zabb Channel ช่องทีวี",
+    "country" : "th"
   }
+  
+
 ]
